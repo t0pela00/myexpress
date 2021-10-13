@@ -10,6 +10,6 @@ GETMethod.js + GETindex.htm
 
 POSTMETHOD1.js +POSTindex.htm
 
-fileupload.js + foleindex.htm
+fileupload.js + fIleindex.htm
 
 server.js (Cookies Management)
